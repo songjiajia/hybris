@@ -1,5 +1,4 @@
-sap.ui
-		.controller(
+sap.ui.controller(
 				"poc.fiori.wechat.search",
 				{
 
