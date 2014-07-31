@@ -11,7 +11,7 @@ sap.ui.controller(
 					 * @memberOf poc.fiori.wechat.search
 					 */
 					onInit : function() {
-						var oImage = this.byId("idImage");
+					var oImage = this.byId("idImage");
 						oImage.setVisible(true);
 						var oList = this.byId("idList");
 						oList.setVisible(false);
